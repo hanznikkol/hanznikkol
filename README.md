@@ -58,6 +58,9 @@ STI College Lucena | 2021 – 2025
 
 
 ## Contacts <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="30" height="30" />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="20" height="20" /> Download CV: [HANZ NIKKOL B. MAAS_CV.pdf](https://github.com/user-attachments/files/20594551/HANZ.NIKKOL.B.MAAS_CV.pdf)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Lowered%20Flag.png" alt="Open Mailbox with Lowered Flag" width="20" height="20" /> Email: hanznikkolmaas@gmail.com
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="20" height="20" /> LinkedIn: https://www.linkedin.com/in/hanznikkol/
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House.png" alt="House" width="20" height="20" /> Location: Lucena City, Philippines
+
+
