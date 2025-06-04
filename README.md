@@ -27,10 +27,14 @@ I enjoy collaborating with designers, developers, and content teams to bring ide
 <br>
 
 ## Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" />
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Blue%20Square.png" alt="Blue Square" width="25" height="25" /> ONEFlow – Queue Management System
+- ### ONEFlow – Queue Management System
  A full-stack kiosk-based system with real-time tracking, role-based access, and TV display integration.
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Blue%20Square.png" alt="Blue Square" width="25" height="25" /> HealthMe – Healthcare Social Media App
+ 
+- ### HealthMe – Healthcare Social Media App
 An Android app connecting the public with healthcare professionals. Features real-time posting, commenting, and admin controls.
+
+- ### STIJoin – Student Registration
+A C#-based desktop application for managing student registration at STI College Lucena.
 
   > Add links later
 
