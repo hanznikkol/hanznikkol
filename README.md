@@ -52,6 +52,12 @@ STI College Lucena | 2021 – 2025
 <img src="https://github.com/user-attachments/assets/a447d1f6-2658-4c16-ab97-94c759810376" alt="Alt text" width="50%" height="50%">
 <br>
 
+## Certification <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="30" height="30" />
+- ### The Front-End Web Developer Bootcamp Certificate | Udemy
+  _Course Tackled: HTML, CSS, JavaScript, ReactJS_ <br>
+[View Certificate](https://github.com/user-attachments/assets/dbfaa835-12e9-49ac-8328-197e29e3cc5a)
+
+
 ## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" />
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hanznikkol&count_private=true&theme=tokyonight&showicons=true)]()<br> 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hanznikkol&langs_count=5&theme=tokyonight)]()
