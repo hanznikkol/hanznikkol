@@ -2,7 +2,7 @@
 
 ### 🎯 Frontend. Design. Growth.
 
-Hi! I'm an aspiring front-end developer from Lucena City, Quezon, currently completing my Bachelor of Science in Information Technology. 
+Hi! I'm an aspiring Front-End Developer from Lucena City, Quezon, currently completing my Bachelor of Science in Information Technology. 
 I have hands-on experience building responsive, user-centered websites with a focus on clean design, performance, and accessibility.
 I enjoy collaborating with designers, developers, and content teams to bring ideas to life, whether it's crafting sleek user interfaces, optimizing site content, or ensuring everything runs smoothly across browsers and devices.
 
