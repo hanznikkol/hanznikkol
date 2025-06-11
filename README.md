@@ -44,19 +44,18 @@ An Android app connecting the public with healthcare professionals. Features rea
 
 - ### Securus – A Motivational Website
 A simple website for those students who experience Anxiety and Panic attacks.
-<br>**Tech Used:**  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+<br>**Tech Used:** 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
 - ### STIJoin – Student Registration
 A C#-based desktop application for managing student registration at STI College Lucena.
-<br>**Tech Used:**  
- ![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)
- ![MSSQL](https://img.shields.io/badge/MSSQL%20-%20%20%23A91D22?style=flat&logoColor=white)
+<br>**Tech Used:**
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL%20-%20%20%23A91D22?style=flat&logoColor=white)
 
-
-  > Add links later
+<br> > Add links later
 
 ## Internship <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="30" height="30" />
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> Front-End Developer & Content-Entry <br>
