@@ -47,6 +47,7 @@ A C#-based desktop application for managing student registration at STI College 
 <br>**Tech Used:**
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL%20-%20%20%23A91D22?style=flat&logoColor=white)
+🖥️ [View Project]([https://github.com](https://github.com/hanznikkol/STIJoin))
 
 <br> > Add links later
 
