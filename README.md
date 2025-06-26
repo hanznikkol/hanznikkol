@@ -42,7 +42,7 @@ An Android app connecting the public with healthcare professionals. Features rea
  ![Static Badge](https://img.shields.io/badge/XML-%23005FAD?style=flat&logo=xml&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
 
-- ### Securus – A Motivational Website
+- ### Securus – A Support Website
 A simple website for those students who experience Anxiety and Panic attacks.
 <br>**Tech Used:** 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
