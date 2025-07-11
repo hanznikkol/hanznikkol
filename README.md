@@ -6,7 +6,7 @@ Hi! I'm an aspiring Front-End Developer from Lucena City, Quezon, currently comp
 I have hands-on experience building responsive, user-centered websites with a focus on clean design, performance, and accessibility.
 I enjoy collaborating with designers, developers, and content teams to bring ideas to life, whether it's crafting sleek user interfaces, optimizing site content, or ensuring everything runs smoothly across browsers and devices.
 
-<img src="https://github.com/user-attachments/assets/55564e1e-2613-44ec-b7e1-3e2a3057284b" alt="Alt text" width="50%" height="80%">
+<img src="https://github.com/user-attachments/assets/55564e1e-2613-44ec-b7e1-3e2a3057284b" alt="Alt text" width="100%" height="100%">
 
 ## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
