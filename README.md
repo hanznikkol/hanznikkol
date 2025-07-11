@@ -60,7 +60,6 @@ STI College Lucena | 2021 – 2025
 ## Achievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" /> Codefest 2024 National Finalist – Built a full-featured social media app in 36 hours
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" /> Best in Research Output (2024) – Led the team behind ONEFlow Queue Management System
-<img src="https://github.com/user-attachments/assets/a447d1f6-2658-4c16-ab97-94c759810376" alt="Alt text" width="50%" height="50%">
 <br>
 
 ## Certification <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="30" height="30" />
