@@ -56,6 +56,7 @@ Crescendo Collective | Feb 2025 - May 2025
 ## Education <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Student" width="30" height="30" />
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Notebook.png" alt="Notebook" width="20" height="20" /> Bachelor of Science in Information Technology<br>
 STI College Lucena | 2021 – 2025
+"Magna Cum Laude"
 
 ## Achievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" /> Codefest 2024 National Finalist – Built a full-featured social media app in 36 hours
