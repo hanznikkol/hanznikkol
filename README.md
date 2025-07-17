@@ -55,7 +55,7 @@ Crescendo Collective | Feb 2025 - May 2025
 
 ## Education <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Student" width="30" height="30" />
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Notebook.png" alt="Notebook" width="20" height="20" /> Bachelor of Science in Information Technology<br>
-STI College Lucena | 2021 – 2025
+STI College Lucena | 2021 – 2025 <br>
 ***Magna Cum Laude***
 
 ## Achievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" />
