@@ -1,10 +1,8 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="60" height="60" /> Hi! I'm Hanz Nikkol
 
-### 🎯 Frontend. Design. Growth.
+### 🎯 Build. Design. Evolve.
 
-Hi! I'm an aspiring Front-End Developer from Lucena City, Quezon, currently completing my Bachelor of Science in Information Technology. 
-I have hands-on experience building responsive, user-centered websites with a focus on clean design, performance, and accessibility.
-I enjoy collaborating with designers, developers, and content teams to bring ideas to life, whether it's crafting sleek user interfaces, optimizing site content, or ensuring everything runs smoothly across browsers and devices.
+Hi! I'm a developer and a Magna Cum Laude graduate of Bachelor of Science in Information Technology from STI College Lucena. I have hands-on experience building responsive, user-centered websites with a strong focus on clean design, performance, and accessibility. While I have a deep enthusiasm for frontend development, I'm also continuously exploring tools, frameworks, and technologies across the full stack to grow as a versatile developer. I enjoy collaborating with teams to bring digital ideas to life—whether through design, code, or content.
 
 ## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
