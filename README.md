@@ -2,7 +2,7 @@
 
 ### 🎯 Build. Design. Evolve.
 
-Hi! I'm a developer and a Magna Cum Laude graduate of Bachelor of Science in Information Technology from STI College Lucena. I have hands-on experience building responsive, user-centered websites with a strong focus on clean design, performance, and accessibility. While I have a deep enthusiasm for frontend development, I'm also continuously exploring tools, frameworks, and technologies across the full stack to grow as a versatile developer. I enjoy collaborating with teams to bring digital ideas to life—whether through design, code, or content.
+Hi! I'm a developer and a Magna Cum Laude graduate of Bachelor of Science in Information Technology from STI College Lucena. I have hands-on experience building responsive, user-centered websites with a strong focus on clean design, performance, and accessibility. While I have a deep enthusiasm for frontend development, I'm also continuously exploring tools, frameworks, and technologies across the full stack to grow as a versatile developer. I enjoy collaborating with teams to bring digital ideas to life, whether through design, code, or content.
 
 ## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
